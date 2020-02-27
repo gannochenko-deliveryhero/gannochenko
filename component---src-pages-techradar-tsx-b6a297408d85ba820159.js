@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{370:function(e,a,r){"use strict";r.r(a),r.d(a,"query",(function(){return o}));var t=r(0),n=r.n(t),d=r(99),o="801081236";a.default=function(e){var a=e.data,r=(void 0===a?{}:a).allMarkdownRemark,t=(r=void 0===r?{}:r).nodes,o=void 0===t?[]:t;return n.a.createElement(d.e,{shortHeader:!0,title:"Tech radar",backURL:"/"},n.a.createElement(d.f,{title:"Tech radar",keywords:[""]}),n.a.createElement(d.a,{nodes:o}))}}}]);
+//# sourceMappingURL=component---src-pages-techradar-tsx-b6a297408d85ba820159.js.map
